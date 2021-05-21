@@ -2,6 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 Employee Directory generates a table of employees with general information for coworkers to view.
+
+![](https://i.gyazo.com/46160e5b48b1fce9a9af214c15e1a250.png)
 ## Table of Contents
 * [Top of Page](#Employee-Directory-readme)
 * [Description](#description)
