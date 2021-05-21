@@ -1,7 +1,12 @@
+import React, { useState, useEffect} from 'react';
+import EmployeeTable from './components/EmployeeTable';
 
 function App() {
+
   return (
-    <h1>This is filler info.</h1>
+    <div>
+      <EmployeeTable />
+    </div>
   );
 }
 
